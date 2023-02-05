@@ -1,4 +1,4 @@
-i'm only working on the index.html amt
+i'm only working on the index.html atm
 later gohugo.io will be used for static page generation
 
 TO DO: 
