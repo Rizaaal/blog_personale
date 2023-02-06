@@ -3,7 +3,6 @@ later gohugo.io will be used for static page generation
 
 TO DO: 
 
-• Remove the "post" link in the navigation (redundant)
 • Make the active post coloured with this js:
     document.querySelectorAll(`a`).forEach(function(links){
         console.log(links.href == document.URL)
