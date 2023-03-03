@@ -1,6 +1,11 @@
 i'm only working on the index.html atm
 
 later gohugo.io will be used for static page generation
+I figured out that is very important that i check what gohugo can do
+before doing any design/development. So i'm going to stop any
+design activity to dedicate myself to exploring this tool.
+
+- try go hugo
 
 ## TO DO: 
 
