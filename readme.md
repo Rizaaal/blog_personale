@@ -7,6 +7,14 @@ design activity to dedicate myself to exploring this tool.
 
 - try go hugo
 
+Tools to use for this blog:
+
+- HTML
+- plain CSS (maybe bootstrap)
+- vanilla JS
+- maybe npm if i need it
+- gohugo
+
 ## TO DO: 
 
 - Make the active post coloured with this:
