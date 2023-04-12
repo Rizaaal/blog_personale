@@ -1,11 +1,6 @@
 i'm only working on the index.html atm
 
-later gohugo.io will be used for static page generation
-I figured out that is very important that i check what gohugo can do
-before doing any design/development. So i'm going to stop any
-design activity to dedicate myself to exploring this tool.
-
-- try go hugo
+- try go hugo ✔️
 
 Tools to use for this blog:
 
@@ -17,6 +12,8 @@ Tools to use for this blog:
 
 ## TO DO: 
 
+- Completa il design su Figma. Il design dovrà essere completo, senza
+prototyping, ed una volta finito tutte le specifiche dovranno essere definite.
 - Make the active post coloured with this:
     ```
     document.querySelectorAll('a').forEach(function(links){
