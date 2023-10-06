@@ -1,3 +1,7 @@
+I will not do any of what you'll read below this line. This project is concluded.
+
+---
+
 i'm only working on the index.html atm
 
 - try go hugo ✔️
